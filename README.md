@@ -10,7 +10,7 @@ This project is built with ReactJS. This project used Travel Advisor API, Google
 
 ## Screenshots 📷
 
-![](screenshot/1.png)
+![](screenshot/screenshot.png)
 
 ## Link 🔗
 
